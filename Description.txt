@@ -1,0 +1,2 @@
+The self balancing of the robot has been achieved using Proportional Integral Derivative values of MPU-6050(Gyro+Accelerometer Sensor)
+Object tracking has been accomplished using OpenCV library of python 2.7.6 alongwith Raspberry Pi 2
